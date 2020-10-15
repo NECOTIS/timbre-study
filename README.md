@@ -7,10 +7,6 @@ We designed a study to compare shape, colour and texture as visual labels in a k
 
 We are specifically interested in visually differentiating the **timbre** of sound samples so we used samples  of different instruments all playing the same note (see the data section).
 
-# Try it out
-The easiest way to understand the study is to give it a shot!
-
-[Use this link to try the study](http://178.128.233.100/publix/8/start?batchId=31&generalMultiple)
 
 # Overview
 This repository contains source code for a browser-based study on audio visualisation. The study is bi-lingual and participants can choose between french or english as their preferrred language.
